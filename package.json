@@ -1,0 +1,17 @@
+{
+  "name": "node-game-library",
+  "version": "0.0.1",
+  "description": "A Library with game dev helpers built on best practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Gaming",
+    "Development",
+    "Node",
+    "Library"
+  ],
+  "author": "Serge R. Kamel",
+  "license": "MIT"
+}
